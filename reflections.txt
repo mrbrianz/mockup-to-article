@@ -7,3 +7,15 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+What new skills have I learned?
+I have learned to use the Mozilla Developer Network reference website more often when developing html.
+
+What has been easy?
+It was easy to look up various tags and use them and to compare the pdf to the finished product.
+
+What has been difficult?
+The attention to detail is always the difficult part of this type of project.
+
+How have I used the strategies from the first project to overcome challenges?
+I have used the strategies of research and trial-and-error to overcome challenges to this point.
